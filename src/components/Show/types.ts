@@ -1,5 +1,5 @@
 interface IShowProps {
-    showIf: boolean;
+  ["if"]: boolean;
 }
 
 export type { IShowProps };
